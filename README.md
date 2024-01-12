@@ -1,2 +1,2 @@
-# DroughtForecatModel
-DroughtForecatModel
+# DroughtForecastModel
+DroughtForecastModel
